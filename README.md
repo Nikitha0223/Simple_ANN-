@@ -1,1 +1,1 @@
-# Simple_ANN-
+# A Simple project on ANN classification
